@@ -7,6 +7,10 @@ DeepRacer. A ferramenta aplica o algoritmo de otimização de trajetória
 aderência lateral, gerando as matrizes de coordenadas prontas para serem
 inseridas na Função de Recompensa (_Reward Function_).
 
+### 👤 Autores
+- **Pedro Victor Venâncio dos Santos** - Desenvolvedor & Pesquisador
+- **Francisco Marcelino Almeida de Araújo** - Co-orientador
+
 ---
 
 ## 🧠 O que este projeto faz?
@@ -48,10 +52,26 @@ Gera um código Python formatado (`TRACK_DATA`) com coordenadas:
 
 ---
 
+## 🏁 Pistas Testadas e Otimizadas
+
+- **Reinvent Base** (Simples) - Pista básica de treinamento
+- **Tokyo Training Track** (Complexa) - Múltiplas curvas fechadas
+- **2022 Summit Speedway** - Circuito de alta velocidade
+
+### 📊 Resultados Principais
+
+| Métrica | Resultado |
+|---------|-----------|
+| **Melhor Tempo (Tokyo Track)** | 17.74s com K1999 |
+| **Consistência Baseline** | Superior em testes Zero-Shot Transfer |
+| **Generalização K1999** | Otimizado para circuitos conhecidos |
+| **Cenários Imprevistos** | Treinamento convencional recomendado |
+
+---
+
 ## 🗺️ Onde encontrar os arquivos das pistas (.npy)?
 
-👉
-https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks
+👉 https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks
 
 ---
 
@@ -67,8 +87,8 @@ https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_dat
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/victordev018/deepracer-k1999-optimizer.git
-cd deepracer-k1999-optimizer
+git clone https://github.com/PedroVenanci0/deepraceroptimization.git
+cd deepraceroptimization
 ```
 
 ```bash
