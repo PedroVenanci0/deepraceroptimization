@@ -8,7 +8,8 @@ aderência lateral, gerando as matrizes de coordenadas prontas para serem
 inseridas na Função de Recompensa (_Reward Function_).
 
 ### 👤 Autores
-- **Pedro Victor Venâncio dos Santos** - Desenvolvedor & Pesquisador
+- **Pedro Victor Venâncio dos Santos** - Desenvolvedor & Pesquisador Principal
+- **João Victor** (@victordev018) - Co-autor & Desenvolvimento da Ferramenta K1999
 - **Francisco Marcelino Almeida de Araújo** - Co-orientador
 
 ---
