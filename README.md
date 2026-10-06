@@ -74,6 +74,8 @@ Gera um código Python formatado (`TRACK_DATA`) com coordenadas:
 
 Esta ferramenta é parte do TCC **"Otimização de agentes autônomos no AWS DeepRacer: uma abordagem utilizando o algoritmo PPO e trajetórias K1999"**, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPI (Campus Teresina Central), aprovado em 25/06/2026 e orientado pelo Prof. Me. Francisco Marcelino Almeida de Araújo.
 
+📄 Registro na Biblioteca Digital do IFPI: https://bia.ifpi.edu.br/jspui/handle/123456789/5778
+
 O estudo comparou recompensas Baseline (centro da pista) e trajetórias K1999, com PPO, em 8 sessões de treino e em um teste de generalização em pista inédita. As animações do algoritmo estão no repositório **[DeepLine](https://github.com/PedroVenanci0/DeepLine)**.
 
 ---
